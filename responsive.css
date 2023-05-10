@@ -1,0 +1,56 @@
+@media all and (max-width:992px) {
+    a.navbar-brand {
+        padding-left: 50px;
+    }
+    .bannar {
+        background-color: #f9f9ff;
+        padding-bottom: 30px;
+    }
+    .about .bannar-text {
+        margin-top: 0px;
+    }
+    
+        .bannar img {
+            width: 300px;
+        }
+        
+        .bannar-text {
+            margin-top: 90px;
+            padding-left: 25px;
+        }
+        .about img.img-thumbnail {
+            height: 400px;
+            object-fit: cover;
+            margin-left: 22px;
+        }
+        .about .bannar-text {
+       
+            padding-left: 40px;
+        }
+        .apps-div {
+            margin-bottom: 30px;
+        }
+        .numberm {
+            margin-bottom: 20px;
+        }
+        .info-pic {
+            margin-bottom: 100px;
+        }
+        .form-col {
+            padding-left: 40px;
+        }
+        .contact-form {
+            padding: 15px !important;
+        }
+}
+
+@media all and (max-width:768px) {
+    .contact-info {
+        text-align: center;
+    }
+}
+@media all and (max-width:576px) {
+    .contact-info {
+        text-align: center;
+    }
+}

@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+.won-header img{
+width: 100px;
+}
+
+.won-header ul li a{
+    padding: 15px !important;
+    font-size: 20px;
+}
+
+
+/* bannart section */
+
+.bannar{
+   background-color: #f9f9ff;
+}
+.bannar .btn{
+    background-color:#8490ff;
+    color: #fff;
+}
+.bannar-text{
+    margin-top: 140px;
+}
+
+
+/* about section */
+
+.about .bannar-text{
+    margin-top: 70px;
+}
+
+.about .btn{
+    background-color:#8490ff;
+    color: #fff;
+}
+
+/* number-counter section */
+
+.number-counter {
+    background-color: #8490ff;
+    padding: 70px 0px;
+}
+
+
+/* apps-using section  */
+
+.apps-using {
+    background-color: rgb(249,249,255);
+}
+.pricing-apps span {
+    height: 80px;
+    width: 80px;
+    background-color: #f9f9ff;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 80px;
+    font-size: 25px;
+}
+
+.apps-using .btn{
+    border: 2px solid #8490ff;
+    color:  #8490ff ;
+}
+
+
+
+/* user-sectiom */
+
+.users .row{
+    margin-top: 100px;
+}
+.user-box {
+    padding: 35px;
+    position: relative;
+}
+.user-box img {
+    width: 100px;
+    position: absolute;
+    top: -70px;
+    left: 25px;
+}
+
+.users p {
+    margin-bottom: 0;
+}
+
+/* contact section     */
+
+.contact{
+    background-color: #f9f9ff;
+}
